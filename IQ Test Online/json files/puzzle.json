@@ -1,0 +1,305 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "What is the next number in the sequence: 2, 5, 10, 17, 26, __?",
+        "options": ["37", "38", "40", "42"],
+        "correct": 0
+      },
+      {
+        "id": 1,
+        "text": "What comes next in the sequence: 1, 1, 2, 6, 24, __?",
+        "options": ["120", "130", "150", "100"],
+        "correct": 0
+      },
+      {
+        "id": 2,
+        "text": "Which number is missing in the sequence: 1, 4, 9, 16, __?",
+        "options": ["25", "30", "35", "40"],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "text": "What comes next in this pattern: A, B, C, D, __?",
+        "options": ["E", "F", "G", "H"],
+        "correct": 0
+      },
+      {
+        "id": 4,
+        "text": "If you rearrange the letters 'XPAER', what word do you get?",
+        "options": ["Example", "Paper", "Expert", "Pair"],
+        "correct": 1
+      },
+      {
+        "id": 5,
+        "text": "What is the next term in the series: 1, 4, 9, 16, 25, __?",
+        "options": ["36", "40", "50", "49"],
+        "correct": 0
+      },
+      {
+        "id": 6,
+        "text": "What is the missing number: 4, 9, 16, 25, __?",
+        "options": ["36", "30", "35", "40"],
+        "correct": 0
+      },
+      {
+        "id": 7,
+        "text": "What comes next in this sequence: 3, 6, 11, 18, 27, __?",
+        "options": ["38", "42", "45", "36"],
+        "correct": 0
+      },
+      {
+        "id": 8,
+        "text": "What is the missing number in the sequence: 5, 10, 20, 40, __?",
+        "options": ["60", "80", "100", "120"],
+        "correct": 1
+      },
+      {
+        "id": 9,
+        "text": "What is the next letter in the pattern: A, C, F, J, O, __?",
+        "options": ["P", "Q", "R", "T"],
+        "correct": 0
+      },
+      {
+        "id": 10,
+        "text": "Which word is the odd one out: Cat, Dog, Rabbit, Carrot?",
+        "options": ["Carrot", "Cat", "Dog", "Rabbit"],
+        "correct": 0
+      },
+      {
+        "id": 11,
+        "text": "What comes next in the sequence: 1, 2, 4, 8, 16, __?",
+        "options": ["32", "50", "64", "48"],
+        "correct": 0
+      },
+      {
+        "id": 12,
+        "text": "Which number is missing in this sequence: 2, 5, 10, 17, 26, __?",
+        "options": ["37", "40", "50", "45"],
+        "correct": 0
+      },
+      {
+        "id": 13,
+        "text": "What comes next in this series: 1, 2, 4, 8, 16, __?",
+        "options": ["32", "48", "24", "36"],
+        "correct": 0
+      },
+      {
+        "id": 14,
+        "text": "What is the next number in this pattern: 1, 8, 27, __?",
+        "options": ["32", "36", "48", "64"],
+        "correct": 3
+      },
+      {
+        "id": 15,
+        "text": "What comes next in the series: 5, 10, 20, 40, __?",
+        "options": ["80", "60", "50", "100"],
+        "correct": 0
+      },
+      {
+        "id": 16,
+        "text": "What is the next letter in the series: A, D, G, J, __?",
+        "options": ["L", "M", "N", "K"],
+        "correct": 0
+      },
+      {
+        "id": 17,
+        "text": "What comes next in the sequence: 3, 9, 18, 30, 45, __?",
+        "options": ["60", "72", "70", "90"],
+        "correct": 0
+      },
+      {
+        "id": 18,
+        "text": "What is the next term in this series: 10, 20, 40, 80, __?",
+        "options": ["160", "180", "200", "150"],
+        "correct": 0
+      },
+      {
+        "id": 19,
+        "text": "What is the missing number in the sequence: 1, 4, 7, 10, __?",
+        "options": ["11", "12", "13", "14"],
+        "correct": 0
+      },
+      {
+        "id": 20,
+        "text": "What comes next in the sequence: 3, 6, 9, 12, __?",
+        "options": ["15", "16", "17", "14"],
+        "correct": 0
+      },
+      {
+        "id": 21,
+        "text": "What comes next in this pattern: X, Y, Z, A, __?",
+        "options": ["B", "C", "D", "E"],
+        "correct": 0
+      },
+      {
+        "id": 22,
+        "text": "What is the next term in the series: 3, 12, 48, __?",
+        "options": ["192", "240", "180", "160"],
+        "correct": 0
+      },
+      {
+        "id": 23,
+        "text": "What number should come next in the sequence: 2, 5, 10, 17, __?",
+        "options": ["26", "27", "37", "30"],
+        "correct": 0
+      },
+      {
+        "id": 24,
+        "text": "What comes next in the series: 1, 4, 9, 16, 25, __?",
+        "options": ["36", "40", "42", "38"],
+        "correct": 0
+      },
+      {
+        "id": 25,
+        "text": "What is the next term in the series: 2, 8, 30, 120, __?",
+        "options": ["480", "500", "600", "1000"],
+        "correct": 0
+      },
+      {
+        "id": 26,
+        "text": "What comes next in the sequence: 5, 10, 15, 20, __?",
+        "options": ["25", "26", "27", "28"],
+        "correct": 0
+      },
+      {
+        "id": 27,
+        "text": "What comes next in this sequence: 3, 6, 12, 24, __?",
+        "options": ["48", "50", "52", "55"],
+        "correct": 0
+      },
+      {
+        "id": 28,
+        "text": "What comes next in the sequence: 2, 4, 8, 16, __?",
+        "options": ["32", "50", "48", "60"],
+        "correct": 0
+      },
+      {
+        "id": 29,
+        "text": "What is the next number in the sequence: 1, 2, 6, 24, 120, __?",
+        "options": ["720", "130", "150", "250"],
+        "correct": 0
+      },
+      {
+        "id": 30,
+        "text": "What is the missing number in the sequence: 2, 5, 10, 17, __?",
+        "options": ["26", "27", "30", "36"],
+        "correct": 0
+      },
+      {
+        "id": 31,
+        "text": "What comes next in this pattern: A, C, F, J, __?",
+        "options": ["O", "P", "Q", "R"],
+        "correct": 0
+      },
+      {
+        "id": 32,
+        "text": "What is the next number in the sequence: 1, 4, 9, 16, 25, __?",
+        "options": ["36", "42", "48", "50"],
+        "correct": 0
+      },
+      {
+        "id": 33,
+        "text": "What comes next in the sequence: 2, 4, 8, 16, __?",
+        "options": ["24", "32", "48", "40"],
+        "correct": 1
+      },
+      {
+        "id": 34,
+        "text": "What comes next in the sequence: 1, 5, 14, 30, __?",
+        "options": ["50", "60", "70", "80"],
+        "correct": 0
+      },
+      {
+        "id": 35,
+        "text": "What is the missing number in the series: 1, 1, 2, 6, __?",
+        "options": ["24", "30", "35", "40"],
+        "correct": 0
+      },
+      {
+        "id": 36,
+        "text": "What comes next in this sequence: 5, 11, 21, 35, __?",
+        "options": ["49", "50", "55", "60"],
+        "correct": 0
+      },
+      {
+        "id": 37,
+        "text": "What comes next in the series: 3, 9, 18, 30, 45, __?",
+        "options": ["60", "70", "72", "90"],
+        "correct": 0
+      },
+      {
+        "id": 38,
+        "text": "What is the next term in this sequence: 2, 6, 12, 20, 30, __?",
+        "options": ["42", "45", "50", "56"],
+        "correct": 0
+      },
+      {
+        "id": 39,
+        "text": "What is the next number in the sequence: 1, 4, 9, 16, 25, __?",
+        "options": ["36", "40", "45", "50"],
+        "correct": 0
+      },
+      {
+        "id": 40,
+        "text": "What comes next in the series: 10, 15, 21, 28, __?",
+        "options": ["35", "40", "45", "50"],
+        "correct": 0
+      },
+      {
+        "id": 41,
+        "text": "What is the next number in this pattern: 1, 4, 9, 16, __?",
+        "options": ["25", "30", "36", "40"],
+        "correct": 0
+      },
+      {
+        "id": 42,
+        "text": "What is the next term in the series: 5, 10, 20, 40, __?",
+        "options": ["50", "60", "80", "100"],
+        "correct": 2
+      },
+      {
+        "id": 43,
+        "text": "What comes next in this sequence: 4, 8, 16, 32, __?",
+        "options": ["48", "64", "80", "96"],
+        "correct": 1
+      },
+      {
+        "id": 44,
+        "text": "What comes next in the series: 1, 3, 7, 15, __?",
+        "options": ["31", "32", "33", "34"],
+        "correct": 0
+      },
+      {
+        "id": 45,
+        "text": "What is the next number in the sequence: 2, 6, 12, 20, 30, __?",
+        "options": ["42", "44", "45", "50"],
+        "correct": 0
+      },
+      {
+        "id": 46,
+        "text": "What is the next number in the sequence: 2, 4, 6, 8, __?",
+        "options": ["10", "12", "14", "16"],
+        "correct": 0
+      },
+      {
+        "id": 47,
+        "text": "What comes next in the series: 3, 9, 27, 81, __?",
+        "options": ["243", "256", "225", "200"],
+        "correct": 0
+      },
+      {
+        "id": 48,
+        "text": "What is the missing number in the sequence: 5, 10, 15, 20, __?",
+        "options": ["25", "30", "35", "40"],
+        "correct": 0
+      },
+      {
+        "id": 49,
+        "text": "What is the next number in the sequence: 2, 6, 12, 20, 30, __?",
+        "options": ["42", "50", "60", "72"],
+        "correct": 0
+      }
+    ]
+  }
+  

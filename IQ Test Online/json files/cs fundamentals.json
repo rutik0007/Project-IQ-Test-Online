@@ -1,0 +1,305 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "What does CPU stand for?",
+        "options": ["Central Process Unit", "Central Processing Unit", "Central Processor Unit", "Central Processing Unit System"],
+        "correct": 1
+      },
+      {
+        "id": 1,
+        "text": "Which data structure uses LIFO (Last In First Out) order?",
+        "options": ["Queue", "Stack", "Linked List", "Tree"],
+        "correct": 1
+      },
+      {
+        "id": 2,
+        "text": "Which of the following is an example of an input device?",
+        "options": ["Monitor", "Keyboard", "Speaker", "Printer"],
+        "correct": 1
+      },
+      {
+        "id": 3,
+        "text": "What is the main function of an operating system?",
+        "options": ["Provide internet access", "Manage hardware resources", "Browse files", "Play videos"],
+        "correct": 1
+      },
+      {
+        "id": 4,
+        "text": "Which language is primarily used for web development?",
+        "options": ["C", "Java", "Python", "JavaScript"],
+        "correct": 3
+      },
+      {
+        "id": 5,
+        "text": "Which of the following is NOT a type of database?",
+        "options": ["Relational", "Object-Oriented", "Non-Relational", "Object-Relational", "HTML"],
+        "correct": 4
+      },
+      {
+        "id": 6,
+        "text": "Which algorithm is used to sort a list of elements in ascending order?",
+        "options": ["Bubble Sort", "Linear Search", "Binary Search", "Insertion Sort"],
+        "correct": 0
+      },
+      {
+        "id": 7,
+        "text": "Which data structure is used to implement recursion?",
+        "options": ["Queue", "Array", "Stack", "Linked List"],
+        "correct": 2
+      },
+      {
+        "id": 8,
+        "text": "Which of these is NOT an operating system?",
+        "options": ["Windows", "Linux", "Android", "Java"],
+        "correct": 3
+      },
+      {
+        "id": 9,
+        "text": "What is the full form of URL?",
+        "options": ["Uniform Resource Locator", "Universal Resource Locator", "Universal Reference Locator", "Uniform Reference Locator"],
+        "correct": 0
+      },
+      {
+        "id": 10,
+        "text": "What does HTTP stand for?",
+        "options": ["HyperText Transfer Protocol", "HyperTransfer Text Protocol", "HyperText Technology Protocol", "HyperText Transmission Protocol"],
+        "correct": 0
+      },
+      {
+        "id": 11,
+        "text": "Which component performs arithmetic and logical operations in a computer?",
+        "options": ["ALU", "Control Unit", "Memory", "Cache"],
+        "correct": 0
+      },
+      {
+        "id": 12,
+        "text": "What is the purpose of a compiler?",
+        "options": ["Translates code to machine language", "Run the code directly", "Display the output", "Store the data"],
+        "correct": 0
+      },
+      {
+        "id": 13,
+        "text": "Which of the following is an example of an output device?",
+        "options": ["Mouse", "Printer", "Scanner", "Keyboard"],
+        "correct": 1
+      },
+      {
+        "id": 14,
+        "text": "Which of these is NOT a programming paradigm?",
+        "options": ["Object-Oriented", "Procedural", "Declarative", "Event-Driven", "Coding"],
+        "correct": 4
+      },
+      {
+        "id": 15,
+        "text": "Which of the following is used for creating websites?",
+        "options": ["Java", "Python", "HTML", "C++"],
+        "correct": 2
+      },
+      {
+        "id": 16,
+        "text": "Which of these is NOT a type of memory in a computer?",
+        "options": ["RAM", "ROM", "Cache", "Cache Line", "Hard Disk"],
+        "correct": 4
+      },
+      {
+        "id": 17,
+        "text": "What is the size of a float data type in C?",
+        "options": ["2 bytes", "4 bytes", "8 bytes", "16 bytes"],
+        "correct": 1
+      },
+      {
+        "id": 18,
+        "text": "Which of the following is used to protect a network from unauthorized access?",
+        "options": ["Firewall", "Router", "Switch", "Hub"],
+        "correct": 0
+      },
+      {
+        "id": 19,
+        "text": "What is the main function of a database management system?",
+        "options": ["Store files", "Organize and retrieve data", "Manage user accounts", "Execute SQL commands"],
+        "correct": 1
+      },
+      {
+        "id": 20,
+        "text": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Simple Query Language", "Structured Quality Language", "System Query Language"],
+        "correct": 0
+      },
+      {
+        "id": 21,
+        "text": "What is the time complexity of the Binary Search algorithm?",
+        "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+        "correct": 1
+      },
+      {
+        "id": 22,
+        "text": "Which of the following is a type of software license?",
+        "options": ["GPL", "ISO", "TCP", "XML"],
+        "correct": 0
+      },
+      {
+        "id": 23,
+        "text": "Which of the following is a low-level programming language?",
+        "options": ["Java", "Python", "Assembly", "C++"],
+        "correct": 2
+      },
+      {
+        "id": 24,
+        "text": "Which type of data is stored in a binary tree?",
+        "options": ["String", "Integer", "Character", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 25,
+        "text": "Which is the smallest unit of data in a computer?",
+        "options": ["Byte", "Bit", "Kilobyte", "Megabyte"],
+        "correct": 1
+      },
+      {
+        "id": 26,
+        "text": "Which component of the computer is responsible for the booting process?",
+        "options": ["Hard Disk", "ROM", "RAM", "CPU"],
+        "correct": 1
+      },
+      {
+        "id": 27,
+        "text": "What does API stand for?",
+        "options": ["Application Programming Interface", "Automatic Program Installation", "Access Programming Interface", "Auto Program Instruction"],
+        "correct": 0
+      },
+      {
+        "id": 28,
+        "text": "What is the purpose of a DNS server?",
+        "options": ["To assign IP addresses", "To map domain names to IP addresses", "To create websites", "To send emails"],
+        "correct": 1
+      },
+      {
+        "id": 29,
+        "text": "Which of the following is used to check the integrity of a file?",
+        "options": ["Checksum", "Hash", "Encryption", "Compression"],
+        "correct": 0
+      },
+      {
+        "id": 30,
+        "text": "What is the full form of FTP?",
+        "options": ["File Transfer Protocol", "File Transfer Program", "Fast Transmission Protocol", "Fast Transfer Program"],
+        "correct": 0
+      },
+      {
+        "id": 31,
+        "text": "What is an example of a non-relational database?",
+        "options": ["MySQL", "SQLite", "MongoDB", "PostgreSQL"],
+        "correct": 2
+      },
+      {
+        "id": 32,
+        "text": "What is the main difference between RAM and ROM?",
+        "options": ["RAM is volatile; ROM is non-volatile", "ROM is volatile; RAM is non-volatile", "RAM is read-only; ROM is read-write", "ROM is faster than RAM"],
+        "correct": 0
+      },
+      {
+        "id": 33,
+        "text": "Which of the following is used for version control in software development?",
+        "options": ["Git", "Java", "Python", "C++"],
+        "correct": 0
+      },
+      {
+        "id": 34,
+        "text": "What is the purpose of an interrupt in a computer system?",
+        "options": ["To increase processing speed", "To stop a program", "To handle high-priority tasks", "To reset the system"],
+        "correct": 2
+      },
+      {
+        "id": 35,
+        "text": "Which of the following is a type of sorting algorithm?",
+        "options": ["Bubble Sort", "Binary Sort", "Linear Sort", "Tree Sort"],
+        "correct": 0
+      },
+      {
+        "id": 36,
+        "text": "Which of the following is used to store data in key-value pairs?",
+        "options": ["Array", "Linked List", "Dictionary", "Queue"],
+        "correct": 2
+      },
+      {
+        "id": 37,
+        "text": "Which of the following is a characteristic of cloud computing?",
+        "options": ["On-demand resources", "Fixed capacity", "On-premises servers", "Static storage"],
+        "correct": 0
+      },
+      {
+        "id": 38,
+        "text": "Which of the following is a binary number?",
+        "options": ["1010", "1234", "5689", "ABCD"],
+        "correct": 0
+      },
+      {
+        "id": 39,
+        "text": "Which of these is NOT an object-oriented programming concept?",
+        "options": ["Encapsulation", "Inheritance", "Polymorphism", "Compression"],
+        "correct": 3
+      },
+      {
+        "id": 40,
+        "text": "What is a compiler?",
+        "options": ["A tool that translates source code into machine code", "A tool that runs the source code", "A tool for debugging", "A tool for compression"],
+        "correct": 0
+      },
+      {
+        "id": 41,
+        "text": "Which of the following is used to manage a collection of data in a database?",
+        "options": ["Query", "Statement", "Transaction", "Index"],
+        "correct": 3
+      },
+      {
+        "id": 42,
+        "text": "Which type of software is used to create websites?",
+        "options": ["Database Management System", "Text Editor", "Web Browser", "Web Server"],
+        "correct": 1
+      },
+      {
+        "id": 43,
+        "text": "Which of these is a characteristic of a linked list?",
+        "options": ["Sequential Access", "Random Access", "Fixed Size", "Static Memory"],
+        "correct": 0
+      },
+      {
+        "id": 44,
+        "text": "Which algorithm is used to find the shortest path between nodes in a graph?",
+        "options": ["Dijkstra's Algorithm", "Bellman-Ford Algorithm", "A* Algorithm", "Floyd-Warshall Algorithm"],
+        "correct": 0
+      },
+      {
+        "id": 45,
+        "text": "What is the function of the ALU in a computer?",
+        "options": ["Performs arithmetic and logical operations", "Stores data", "Controls the operation of the CPU", "Displays output"],
+        "correct": 0
+      },
+      {
+        "id": 46,
+        "text": "Which of these is used to measure CPU speed?",
+        "options": ["GHz", "MB", "GB", "Hz"],
+        "correct": 0
+      },
+      {
+        "id": 47,
+        "text": "Which of the following is a computer programming language?",
+        "options": ["HTML", "SQL", "Java", "HTTP"],
+        "correct": 2
+      },
+      {
+        "id": 48,
+        "text": "Which of these is the correct format for declaring an array in C?",
+        "options": ["int arr[] = {1, 2, 3};", "array arr = [1, 2, 3];", "arr = {1, 2, 3};", "int arr(1, 2, 3);"],
+        "correct": 0
+      },
+      {
+        "id": 49,
+        "text": "Which of these is NOT a type of network?",
+        "options": ["LAN", "WAN", "PAN", "TIN"],
+        "correct": 3
+      }
+    ]
+  }
+  

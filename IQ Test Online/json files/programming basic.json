@@ -1,0 +1,215 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "What is a variable in Python?",
+        "options": ["A container to store data", "A type of loop", "A method for data entry", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 1,
+        "text": "What is the purpose of the 'System.out.println()' statement in Java?",
+        "options": ["To read input", "To display output", "To write to a file", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 2,
+        "text": "Which of these is a valid way to declare a variable in PHP?",
+        "options": ["int $number = 5;", "$number = 5;", "var $number = 5;", "let $number = 5;"],
+        "correct": 1
+      },
+      {
+        "id": 3,
+        "text": "Which symbol is used for single-line comments in Java?",
+        "options": ["#", "//", "<!--", "/*"],
+        "correct": 1
+      },
+      {
+        "id": 4,
+        "text": "What is the output of: 3 * (2 + 4) in Python?",
+        "options": ["9", "12", "18", "20"],
+        "correct": 2
+      },
+      {
+        "id": 5,
+        "text": "Which keyword is used to declare a class in Java?",
+        "options": ["class", "def", "function", "new"],
+        "correct": 0
+      },
+      {
+        "id": 6,
+        "text": "Which tag is used to start PHP code in a file?",
+        "options": ["<script>", "<?php", "<php>", "<?"],
+        "correct": 1
+      },
+      {
+        "id": 7,
+        "text": "How do you define a function in Python?",
+        "options": ["function myFunc()", "def myFunc():", "func myFunc():", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 8,
+        "text": "Which of these is used to compile Java code?",
+        "options": ["javac", "java", "jvm", "compile"],
+        "correct": 0
+      },
+      {
+        "id": 9,
+        "text": "What is the correct way to define a constant in PHP?",
+        "options": ["define('CONSTANT', 'value');", "const CONSTANT = 'value';", "constant CONSTANT = 'value';", "Both A and B"],
+        "correct": 3
+      },
+      {
+        "id": 10,
+        "text": "Which operator is used to concatenate strings in Java?",
+        "options": ["+", "&", "++", "||"],
+        "correct": 0
+      },
+      {
+        "id": 11,
+        "text": "Which operator is used to concatenate strings in PHP?",
+        "options": ["+", ".", "&", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 12,
+        "text": "What is the correct way to write a for loop in Python?",
+        "options": ["for i in range(10):", "for (i = 0; i < 10; i++)", "foreach i in range(10)", "loop i in range(10)"],
+        "correct": 0
+      },
+      {
+        "id": 13,
+        "text": "What is the output of: System.out.println(5 > 3 && 2 < 4) in Java?",
+        "options": ["True", "False", "Error", "None"],
+        "correct": 0
+      },
+      {
+        "id": 14,
+        "text": "How do you declare an array in PHP?",
+        "options": ["$arr = [1, 2, 3];", "$arr = array(1, 2, 3);", "$arr = {1, 2, 3};", "Both A and B"],
+        "correct": 3
+      },
+      {
+        "id": 15,
+        "text": "Which data type is NOT supported in Java?",
+        "options": ["int", "float", "tuple", "boolean"],
+        "correct": 2
+      },
+      {
+        "id": 16,
+        "text": "What is the default access modifier in Java?",
+        "options": ["public", "private", "default", "package-private"],
+        "correct": 3
+      },
+      {
+        "id": 17,
+        "text": "Which keyword is used for inheritance in PHP?",
+        "options": ["extends", "inherits", "derived", "super"],
+        "correct": 0
+      },
+      {
+        "id": 18,
+        "text": "What is the correct way to initialize an empty list in Python?",
+        "options": ["[]", "{}", "()", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 19,
+        "text": "Which function is used to print output in PHP?",
+        "options": ["print", "echo", "output", "display"],
+        "correct": 1
+      },
+      {
+        "id": 20,
+        "text": "Which data type is NOT supported in Python?",
+        "options": ["int", "float", "set", "char"],
+        "correct": 3
+      },
+      {
+        "id": 21,
+        "text": "Which method is used to add an element to a list in Python?",
+        "options": ["add()", "append()", "insert()", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 22,
+        "text": "Which operator is used to access object properties in Java?",
+        "options": ["->", ".", "::", "&"],
+        "correct": 1
+      },
+      {
+        "id": 23,
+        "text": "What is the correct way to start a comment in PHP?",
+        "options": ["<!--", "//", "#", "/*"],
+        "correct": 1
+      },
+      {
+        "id": 24,
+        "text": "How do you declare a constant in JavaScript?",
+        "options": ["constant MY_CONSTANT = 5;", "let MY_CONSTANT = 5;", "const MY_CONSTANT = 5;", "var MY_CONSTANT = 5;"],
+        "correct": 2
+      },
+      {
+        "id": 25,
+        "text": "Which of these is a correct way to create an object in Java?",
+        "options": ["new MyClass();", "MyClass();", "MyClass.new();", "new MyClass;"],
+        "correct": 0
+      },
+      {
+        "id": 26,
+        "text": "Which of the following is used to compare two values in PHP?",
+        "options": ["==", "=", "!==", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 27,
+        "text": "Which of these is used to access a function inside a class in PHP?",
+        "options": ["::", "->", ".", "#"],
+        "correct": 1
+      },
+      {
+        "id": 28,
+        "text": "Which function is used to count the number of elements in an array in PHP?",
+        "options": ["length()", "count()", "size()", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 29,
+        "text": "Which of these is used to handle exceptions in Java?",
+        "options": ["try-catch", "throw", "error", "finally"],
+        "correct": 0
+      },
+      {
+        "id": 30,
+        "text": "How do you create a new object in Python?",
+        "options": ["object = new MyClass()", "object = MyClass()", "object = MyClass.create()", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 31,
+        "text": "Which of these is a valid keyword in JavaScript?",
+        "options": ["var", "let", "const", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 32,
+        "text": "Which data structure does the 'set' data type represent in Python?",
+        "options": ["Array", "List", "Dictionary", "None of the above"],
+        "correct": 3
+      },
+      {
+        "id": 33,
+        "text": "What is the correct syntax for an if statement in JavaScript?",
+        "options": ["if (x > 5)", "if x > 5", "if x > 5:", "if (x > 5) {}"],
+        "correct": 3
+      },
+      {
+        "id": 34,
+        "text": "Which of these is a valid way to create an array in JavaScript?",
+        "options": ["var arr = [1, 2, 3];", "var arr = {1, 2, 3};", "var arr = (1, 2, 3);", "None of the above"],
+        "correct": 0
+      }
+    ]
+  }
+  

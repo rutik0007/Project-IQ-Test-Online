@@ -1,0 +1,113 @@
+/* Body styling */
+body {
+    margin: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    background: linear-gradient(to right, #f0f9ff, #e1f5fe);
+    color: #333;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Header navigation styles */
+header {
+    background: #81d4fa;
+    padding: 30px 0; /* Increased padding for a larger header */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 10px 20px; /* Slightly larger padding for header links */
+    border-radius: 5px;
+    font-size: 16px; /* Larger font for better readability */
+    transition: all 0.3s ease-in-out;
+}
+
+header nav ul li a:hover {
+    color: #fff;
+    background: #0288d1;
+}
+
+/* Main section - test links styling */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    gap: 8px; /* Reduced gap between test links */
+}
+
+main a {
+    text-decoration: none;
+    color: #fff;
+    background: #0288d1;
+    padding: 6px 14px; /* Smaller padding for more compact links */
+    border-radius: 15px; /* Rounded corners */
+    font-size: 12px; /* Reduced font size */
+    font-weight: bold;
+    text-align: center;
+    width: 50%; /* Narrower link width */
+    max-width: 250px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+
+main a:hover {
+    background: #01579b;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+main a:active {
+    transform: scale(0.95);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer styling */
+footer {
+    background: #81d4fa;
+    color: #333;
+    padding: 15px 0;
+    text-align: center;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    header {
+        padding: 20px 0;
+    }
+
+    header nav ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    main a {
+        font-size: 10px;
+        padding: 5px 10px;
+        width: 70%;
+    }
+}

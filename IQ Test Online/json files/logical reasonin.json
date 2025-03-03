@@ -1,0 +1,231 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "If A is the mother of B and C is the father of B, what is C to A?",
+        "options": ["Husband", "Brother", "Son", "Father"],
+        "correct": 0
+      },
+      {
+        "id": 1,
+        "text": "If the day before yesterday was Friday, what will be the day after tomorrow?",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "correct": 1
+      },
+      {
+        "id": 2,
+        "text": "What will come next in the series: 2, 6, 12, 20, 30?",
+        "options": ["40", "42", "50", "56"],
+        "correct": 1
+      },
+      {
+        "id": 3,
+        "text": "Pointing to a man, a woman says, 'He is the only son of my mother’s father.' How is the woman related to the man?",
+        "options": ["Sister", "Daughter", "Cousin", "Niece"],
+        "correct": 0
+      },
+      {
+        "id": 4,
+        "text": "If all roses are flowers and some flowers fade quickly, which of the following is true?",
+        "options": [
+          "All roses fade quickly.",
+          "Some flowers are roses.",
+          "Some roses fade quickly.",
+          "None of the above."
+        ],
+        "correct": 2
+      },
+      {
+        "id": 5,
+        "text": "In a certain code, 'APPLE' is written as 'EQQPI'. How is 'GRAPE' written in that code?",
+        "options": ["ITCQG", "ITCQA", "ETCQA", "EQITC"],
+        "correct": 1
+      },
+      {
+        "id": 6,
+        "text": "A train is running at a speed of 60 km/h and crosses a 200-meter platform in 20 seconds. What is the length of the train?",
+        "options": ["400 meters", "300 meters", "200 meters", "100 meters"],
+        "correct": 1
+      },
+      {
+        "id": 7,
+        "text": "Which number will replace the question mark in the series: 8, 27, 64, ?, 216?",
+        "options": ["100", "125", "144", "175"],
+        "correct": 1
+      },
+      {
+        "id": 8,
+        "text": "John, Mark, and Sarah are siblings. Sarah is older than John but younger than Mark. Who is the youngest?",
+        "options": ["John", "Mark", "Sarah", "None"],
+        "correct": 0
+      },
+      {
+        "id": 9,
+        "text": "Find the odd one out: 2, 3, 5, 7, 11, 13, 15, 17",
+        "options": ["13", "15", "17", "11"],
+        "correct": 1
+      },
+      {
+        "id": 10,
+        "text": "Which word does not belong to the group? Tree, Leaf, Grass, Rock",
+        "options": ["Tree", "Leaf", "Grass", "Rock"],
+        "correct": 3
+      },
+      {
+        "id": 11,
+        "text": "If you rearrange the letters in 'ACTOR', you get the name of a:",
+        "options": ["City", "Profession", "Animal", "Fruit"],
+        "correct": 1
+      },
+      {
+        "id": 12,
+        "text": "If BLUE is coded as 25, what is GREEN coded as?",
+        "options": ["52", "49", "35", "42"],
+        "correct": 1
+      },
+      {
+        "id": 13,
+        "text": "What will come next in the pattern? A1B, B2C, C3D, ?",
+        "options": ["D4E", "E5F", "D4F", "E4D"],
+        "correct": 0
+      },
+      {
+        "id": 14,
+        "text": "If Tom is taller than Jerry but shorter than Bob, who is the tallest?",
+        "options": ["Tom", "Jerry", "Bob", "Cannot be determined"],
+        "correct": 2
+      },
+      {
+        "id": 15,
+        "text": "Find the missing number: 6, 11, 21, 36, ?",
+        "options": ["49", "51", "57", "56"],
+        "correct": 3
+      },
+      {
+        "id": 16,
+        "text": "In a certain code, 123 is written as ABC. How is 231 written?",
+        "options": ["CAB", "BAC", "BCA", "ACB"],
+        "correct": 0
+      },
+      {
+        "id": 17,
+        "text": "All apples are fruits. All fruits are sweet. Which statement is correct?",
+        "options": [
+          "All apples are sweet.",
+          "Some apples are not sweet.",
+          "All sweet things are fruits.",
+          "None of these."
+        ],
+        "correct": 0
+      },
+      {
+        "id": 18,
+        "text": "If 2 stands for B and 4 stands for D, what does 6 stand for?",
+        "options": ["F", "E", "G", "H"],
+        "correct": 0
+      },
+      {
+        "id": 19,
+        "text": "How many triangles are there in the figure below?",
+        "options": ["8", "10", "12", "16"],
+        "correct": 2
+      },
+      {
+        "id": 20,
+        "text": "If CAT is coded as DBU, how is DOG coded?",
+        "options": ["EPH", "EOG", "EPH", "DOH"],
+        "correct": 0
+      },
+      {
+        "id": 21,
+        "text": "In a group of six people, each shakes hands with every other person exactly once. How many handshakes take place?",
+        "options": ["10", "15", "21", "30"],
+        "correct": 1
+      },
+      {
+        "id": 22,
+        "text": "If 9 x 4 = 6441 and 6 x 3 = 6342, what is 8 x 5?",
+        "options": ["8540", "8542", "8543", "8541"],
+        "correct": 3
+      },
+      {
+        "id": 23,
+        "text": "In a certain language, 'book' is written as 'kobo'. How is 'lamp' written in that language?",
+        "options": ["malp", "plam", "paml", "lpam"],
+        "correct": 0
+      },
+      {
+        "id": 24,
+        "text": "Which of the following is the odd one out? 16, 36, 64, 81",
+        "options": ["16", "36", "64", "81"],
+        "correct": 3
+      },
+      {
+        "id": 25,
+        "text": "Find the missing number in the series: 2, 4, 8, 14, 22, ?",
+        "options": ["28", "30", "32", "34"],
+        "correct": 1
+      },
+      {
+        "id": 26,
+        "text": "If Z = 52 and ACT = 48, then BAT = ?",
+        "options": ["46", "45", "49", "44"],
+        "correct": 0
+      },
+      {
+        "id": 27,
+        "text": "Pointing to a photograph, a man says, 'She is the daughter of my only sister.' How is the woman in the photograph related to the man?",
+        "options": ["Niece", "Daughter", "Sister", "Cousin"],
+        "correct": 0
+      },
+      {
+        "id": 28,
+        "text": "A clock is 2 minutes slow at noon and loses an additional 3 minutes every hour. What time will the clock show at 6:00 PM?",
+        "options": ["5:45 PM", "5:48 PM", "5:50 PM", "5:42 PM"],
+        "correct": 3
+      },
+      {
+        "id": 29,
+        "text": "If 3 + 5 = 16 and 4 + 6 = 24, then 5 + 7 = ?",
+        "options": ["32", "30", "36", "34"],
+        "correct": 2
+      },
+      {
+        "id": 30,
+        "text": "Find the missing number: 1, 3, 6, 10, ?",
+        "options": ["14", "15", "16", "18"],
+        "correct": 0
+      },
+      {
+        "id": 31,
+        "text": "If ORANGE is coded as 123456, how is RANGE coded?",
+        "options": ["23456", "13456", "12456", "12346"],
+        "correct": 2
+      },
+      {
+        "id": 32,
+        "text": "In a certain code, DOG is written as GOD and CAT is written as TAC. How is POT written?",
+        "options": ["TOP", "OPT", "POT", "TPO"],
+        "correct": 0
+      },
+      {
+        "id": 33,
+        "text": "Which of the following does not belong to the group? 8, 27, 64, 125, 216",
+        "options": ["27", "125", "216", "64"],
+        "correct": 1
+      },
+      {
+        "id": 34,
+        "text": "A father is three times as old as his son. After 12 years, he will be twice as old as his son. What is the father's current age?",
+        "options": ["36", "48", "60", "72"],
+        "correct": 2
+      },
+      {
+        "id": 35,
+        "text": "If WATER is written as YCVGT, how is EARTH written in that code?",
+        "options": ["GCUVA", "GCVTA", "GCTVA", "GVTCA"],
+        "correct": 0
+      }
+    ]
+  }
+  

@@ -1,0 +1,305 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "What is the output of the following Python code: print(5 == 5 and 10 > 5)?",
+        "options": ["True", "False", "Error", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 1,
+        "text": "Which of the following is the correct syntax for a for loop in Python?",
+        "options": ["for i in range(5):", "for i = 0; i < 5; i++:", "for i in range(5) { }", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 2,
+        "text": "What is the output of: 5 * 3 + 2?",
+        "options": ["17", "15", "14", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "text": "What will the following Python code print: 'Hello' + 5?",
+        "options": ["Hello5", "Error", "Hello", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 4,
+        "text": "If a == 3 and b == 2, what is the value of a * b + b?",
+        "options": ["7", "8", "10", "6"],
+        "correct": 0
+      },
+      {
+        "id": 5,
+        "text": "What is the output of the following code: print(7 // 3)?",
+        "options": ["2", "3", "2.33", "3.0"],
+        "correct": 0
+      },
+      {
+        "id": 6,
+        "text": "What will the following code output in Python: if (3 > 2) or (2 > 3): print('True') else: print('False')?",
+        "options": ["True", "False", "Error", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 7,
+        "text": "Which of the following is a correct way to define a dictionary in Python?",
+        "options": ["dict = { 'a': 1, 'b': 2 }", "dict = { a: 1, b: 2 }", "dict = [ 'a': 1, 'b': 2 ]", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 8,
+        "text": "What will the following code output in Python: print('10' + 5)?",
+        "options": ["105", "Error", "None of the above", "15"],
+        "correct": 1
+      },
+      {
+        "id": 9,
+        "text": "Which of these is an example of an infinite loop?",
+        "options": ["while True: pass", "for i in range(10): pass", "if 5 > 3: pass", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 10,
+        "text": "What is the value of 9 % 4?",
+        "options": ["1", "3", "2", "None of the above"],
+        "correct": 2
+      },
+      {
+        "id": 11,
+        "text": "What will the following code print in Python: print(3 + 2 * 5)?",
+        "options": ["13", "25", "10", "None of the above"],
+        "correct": 2
+      },
+      {
+        "id": 12,
+        "text": "What is the output of this expression: not (True and False)?",
+        "options": ["True", "False", "Error", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 13,
+        "text": "What will the following code print in Python: if (5 == 5) and (5 > 3): print('True') else: print('False')?",
+        "options": ["True", "False", "Error", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 14,
+        "text": "What will the following code output in Python: print(3 == 3 and 4 != 4)?",
+        "options": ["True", "False", "Error", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 15,
+        "text": "What will the following code output: print(5 == 5 and 5 != 5)?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 1
+      },
+      {
+        "id": 16,
+        "text": "What is the result of the expression: 4 + 5 * 2?",
+        "options": ["18", "14", "10", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 17,
+        "text": "Which of these is the correct syntax for a while loop in Python?",
+        "options": ["while condition: pass", "while (condition) { }", "repeat until condition: pass", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 18,
+        "text": "What will the following code print in Python: print(4 ** 2)?",
+        "options": ["16", "2", "4", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 19,
+        "text": "What is the output of this expression: 8 // 3?",
+        "options": ["2", "2.66", "3", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 20,
+        "text": "Which of these operators is used for logical 'OR' in Python?",
+        "options": ["&&", "and", "or", "||"],
+        "correct": 2
+      },
+      {
+        "id": 21,
+        "text": "What is the output of this code: print('10' * 3)?",
+        "options": ["101010", "Error", "30", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 22,
+        "text": "Which of the following statements is true regarding the Python 'and' operator?",
+        "options": ["It returns True if both operands are True", "It returns False if either operand is False", "It performs a bitwise operation", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 23,
+        "text": "What is the value of 2 ** 3?",
+        "options": ["5", "8", "6", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 24,
+        "text": "What is the output of the following Python code: if 0: print('True') else: print('False')?",
+        "options": ["True", "False", "Error", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 25,
+        "text": "What will the following code output: print(3 != 3)?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 1
+      },
+      {
+        "id": 26,
+        "text": "What is the output of: 4 / 2 * 3?",
+        "options": ["6", "2", "12", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 27,
+        "text": "Which of the following is a valid way to check if a number is even in Python?",
+        "options": ["if num % 2 == 0:", "if num % 2 != 1:", "if num == 0:", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 28,
+        "text": "What is the result of this expression: 10 % 3?",
+        "options": ["1", "3", "2", "None of the above"],
+        "correct": 2
+      },
+      {
+        "id": 29,
+        "text": "What is the output of the following Python code: print(3 and 4)?",
+        "options": ["3", "4", "True", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 30,
+        "text": "What will the following Python code print: print(5 < 3)?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 1
+      },
+      {
+        "id": 31,
+        "text": "Which of the following is the correct way to define a function in Python?",
+        "options": ["def myFunc():", "func myFunc():", "function myFunc():", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 32,
+        "text": "What is the result of 3 * (4 + 2)?",
+        "options": ["18", "24", "20", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 33,
+        "text": "Which of the following operators is used to perform integer division in Python?",
+        "options": ["/", "//", "%", "*"],
+        "correct": 1
+      },
+      {
+        "id": 34,
+        "text": "What is the result of the expression: 5 + 3 * 2?",
+        "options": ["16", "11", "10", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 35,
+        "text": "What will be the output of: print(10 == 10)?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 0
+      },
+      {
+        "id": 36,
+        "text": "What will the following Python code print: if True: print('True') else: print('False')?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 0
+      },
+      {
+        "id": 37,
+        "text": "What is the value of 10 // 4?",
+        "options": ["2", "2.5", "3", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 38,
+        "text": "What is the output of the following Python code: print(4 ** 3)?",
+        "options": ["12", "64", "16", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 39,
+        "text": "What will the following Python code print: print(not False)?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 0
+      },
+      {
+        "id": 40,
+        "text": "Which of the following is the correct syntax for an if-else statement in Python?",
+        "options": ["if condition: statement else: statement", "if condition statement else:", "if condition statement", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 41,
+        "text": "What is the value of 3 ** 4?",
+        "options": ["81", "16", "12", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 42,
+        "text": "What is the result of the expression: 3 == 3?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 0
+      },
+      {
+        "id": 43,
+        "text": "What is the result of the expression: 5 > 3 and 2 < 3?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 0
+      },
+      {
+        "id": 44,
+        "text": "What is the output of the following Python code: print(3 == 2 or 5 > 4)?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 0
+      },
+      {
+        "id": 45,
+        "text": "What is the result of the expression: 4 - 3 * 2?",
+        "options": ["-2", "-1", "2", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 46,
+        "text": "What is the output of this Python code: print(0 == 0)?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 0
+      },
+      {
+        "id": 47,
+        "text": "Which of the following is used for logical 'NOT' in Python?",
+        "options": ["not", "!", "~", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 48,
+        "text": "What will the following Python code print: if 3 > 5: print('True') else: print('False')?",
+        "options": ["True", "False", "None of the above", "Error"],
+        "correct": 1
+      },
+      {
+        "id": 49,
+        "text": "Which of the following is a valid comparison operator in Python?",
+        "options": ["==", ">", "<", "All of the above"],
+        "correct": 3
+      }
+    ]
+  }
+  

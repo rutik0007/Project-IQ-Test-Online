@@ -1,0 +1,612 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "What is the capital of India?",
+        "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+        "correct": 1
+      },
+      {
+        "id": 1,
+        "text": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "correct": 0
+      },
+      {
+        "id": 2,
+        "text": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+        "correct": 1
+      },
+      {
+        "id": 3,
+        "text": "What is the chemical symbol for water?",
+        "options": ["H2O", "O2", "CO2", "HO"],
+        "correct": 0
+      },
+      {
+        "id": 4,
+        "text": "Who is known as the Father of Computers?",
+        "options": ["Alan Turing", "Charles Babbage", "Isaac Newton", "Bill Gates"],
+        "correct": 1
+      },
+      {
+        "id": 5,
+        "text": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+        "correct": 1
+      },
+      {
+        "id": 6,
+        "text": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Quartz"],
+        "correct": 2
+      },
+      {
+        "id": 7,
+        "text": "Which gas do plants use during photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+        "correct": 1
+      },
+      {
+        "id": 8,
+        "text": "Who was the first President of the United States?",
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "correct": 1
+      },
+      {
+        "id": 9,
+        "text": "What is the boiling point of water?",
+        "options": ["90°C", "100°C", "120°C", "150°C"],
+        "correct": 1
+      },
+      {
+        "id": 10,
+        "text": "What is the tallest mountain in the world?",
+        "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+        "correct": 2
+      },
+      {
+        "id": 11,
+        "text": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "South Korea"],
+        "correct": 1
+      },
+      {
+        "id": 12,
+        "text": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "correct": 0
+      },
+      {
+        "id": 13,
+        "text": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct": 3
+      },
+      {
+        "id": 14,
+        "text": "Which country hosted the first modern Olympic Games?",
+        "options": ["France", "Italy", "Greece", "United Kingdom"],
+        "correct": 2
+      },
+      {
+        "id": 15,
+        "text": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Rupee", "Yuan"],
+        "correct": 0
+      },
+      {
+        "id": 16,
+        "text": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Marie Curie", "Isaac Newton", "Albert Einstein"],
+        "correct": 0
+      },
+      {
+        "id": 17,
+        "text": "What is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "correct": 1
+      },
+      {
+        "id": 18,
+        "text": "What is the smallest country in the world?",
+        "options": ["Monaco", "Maldives", "Vatican City", "San Marino"],
+        "correct": 2
+      },
+      {
+        "id": 19,
+        "text": "Which organ is responsible for pumping blood?",
+        "options": ["Liver", "Heart", "Lungs", "Kidneys"],
+        "correct": 1
+      },
+      {
+        "id": 20,
+        "text": "What is the national animal of India?",
+        "options": ["Elephant", "Tiger", "Peacock", "Lion"],
+        "correct": 1
+      }
+      ,
+        {
+          "id": 21,
+          "text": "What is the chemical symbol for gold?",
+          "options": ["Au", "Ag", "Pb", "Fe"],
+          "correct": 0
+        },
+        {
+          "id": 22,
+          "text": "Who is known as the Iron Man of India?",
+          "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Subhas Chandra Bose"],
+          "correct": 2
+        },
+        {
+          "id": 23,
+          "text": "Which is the smallest planet in our solar system?",
+          "options": ["Mercury", "Venus", "Mars", "Pluto"],
+          "correct": 0
+        },
+        {
+          "id": 24,
+          "text": "Who invented the telephone?",
+          "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Marie Curie"],
+          "correct": 0
+        },
+        {
+          "id": 25,
+          "text": "What is the name of the longest bone in the human body?",
+          "options": ["Femur", "Tibia", "Humerus", "Radius"],
+          "correct": 0
+        },
+        {
+          "id": 26,
+          "text": "Which country is known as the Land of the Thunder Dragon?",
+          "options": ["Nepal", "Bhutan", "Thailand", "China"],
+          "correct": 1
+        },
+        {
+          "id": 27,
+          "text": "Who is the author of 'Harry Potter'?",
+          "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "C.S. Lewis"],
+          "correct": 1
+        },
+        {
+          "id": 28,
+          "text": "What is the freezing point of water?",
+          "options": ["0°C", "32°F", "100°C", "Both A and B"],
+          "correct": 3
+        },
+        {
+          "id": 29,
+          "text": "Which is the largest continent?",
+          "options": ["Africa", "Asia", "Europe", "North America"],
+          "correct": 1
+        },
+        {
+          "id": 30,
+          "text": "Which gas is the most abundant in Earth's atmosphere?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+          "correct": 2
+        },
+        {
+          "id": 31,
+          "text": "What is the name of the first satellite launched into space?",
+          "options": ["Sputnik 1", "Apollo 11", "Voyager 1", "Challenger"],
+          "correct": 0
+        },
+        {
+          "id": 32,
+          "text": "Who was the first man to step on the moon?",
+          "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+          "correct": 1
+        },
+        {
+          "id": 33,
+          "text": "Which element has the atomic number 1?",
+          "options": ["Helium", "Hydrogen", "Lithium", "Oxygen"],
+          "correct": 1
+        },
+        {
+          "id": 34,
+          "text": "Which desert is the largest in the world?",
+          "options": ["Sahara Desert", "Arabian Desert", "Antarctic Desert", "Gobi Desert"],
+          "correct": 2
+        },
+        {
+          "id": 35,
+          "text": "What is the smallest unit of life?",
+          "options": ["Cell", "Tissue", "Organ", "Organism"],
+          "correct": 0
+        },
+        {
+          "id": 36,
+          "text": "Which organ in the human body produces insulin?",
+          "options": ["Liver", "Pancreas", "Kidneys", "Gallbladder"],
+          "correct": 1
+        },
+        {
+          "id": 37,
+          "text": "What is the capital of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "correct": 2
+        },
+        {
+          "id": 38,
+          "text": "What is the national sport of Japan?",
+          "options": ["Sumo Wrestling", "Baseball", "Karate", "Judo"],
+          "correct": 0
+        },
+        {
+          "id": 39,
+          "text": "Which is the largest mammal in the world?",
+          "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+          "correct": 1
+        },
+        {
+          "id": 40,
+          "text": "Which festival is known as the Festival of Lights?",
+          "options": ["Holi", "Diwali", "Eid", "Christmas"],
+          "correct": 1
+        },
+        {
+          "id": 41,
+          "text": "What is the main ingredient in sushi?",
+          "options": ["Fish", "Rice", "Seaweed", "Soy Sauce"],
+          "correct": 1
+        },
+        {
+          "id": 42,
+          "text": "What is the speed of light?",
+          "options": ["300 km/s", "300,000 km/s", "30,000 km/s", "300,000 m/s"],
+          "correct": 1
+        },
+        {
+          "id": 43,
+          "text": "Who was the first woman to win a Nobel Prize?",
+          "options": ["Marie Curie", "Mother Teresa", "Rosalind Franklin", "Ada Lovelace"],
+          "correct": 0
+        },
+        {
+          "id": 44,
+          "text": "What is the currency of the United Kingdom?",
+          "options": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+          "correct": 2
+        },
+        {
+          "id": 45,
+          "text": "Which organ in the human body is responsible for filtering blood?",
+          "options": ["Heart", "Liver", "Kidneys", "Lungs"],
+          "correct": 2
+        },
+        {
+          "id": 46,
+          "text": "Who discovered gravity?",
+          "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+          "correct": 1
+        },
+        {
+          "id": 47,
+          "text": "Which is the largest island in the world?",
+          "options": ["Greenland", "Madagascar", "Borneo", "New Guinea"],
+          "correct": 0
+        },
+        {
+          "id": 48,
+          "text": "What is the longest highway in the world?",
+          "options": ["Trans-Canada Highway", "Highway 1 (Australia)", "Pan-American Highway", "US Route 20"],
+          "correct": 2
+        },
+        {
+          "id": 49,
+          "text": "Which planet is closest to the Sun?",
+          "options": ["Earth", "Venus", "Mercury", "Mars"],
+          "correct": 2
+        },
+        {
+          "id": 50,
+          "text": "Who is known as the Nightingale of India?",
+          "options": ["Indira Gandhi", "Lata Mangeshkar", "Sarojini Naidu", "Mother Teresa"],
+          "correct": 2
+        }
+        ,
+        
+            {
+              "id": 51,
+              "text": "Which is the largest land animal?",
+              "options": ["Elephant", "Giraffe", "Hippopotamus", "Rhino"],
+              "correct": 0
+            },
+            {
+              "id": 52,
+              "text": "Which is the smallest bird in the world?",
+              "options": ["Sparrow", "Hummingbird", "Robin", "Canary"],
+              "correct": 1
+            },
+            {
+              "id": 53,
+              "text": "Which continent is known as the 'Dark Continent'?",
+              "options": ["Asia", "Africa", "South America", "Australia"],
+              "correct": 1
+            },
+            {
+              "id": 54,
+              "text": "Who was the first Prime Minister of India?",
+              "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Indira Gandhi"],
+              "correct": 1
+            },
+            {
+              "id": 55,
+              "text": "Which is the deepest ocean in the world?",
+              "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+              "correct": 1
+            },
+            {
+              "id": 56,
+              "text": "Who invented the light bulb?",
+              "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Benjamin Franklin"],
+              "correct": 0
+            },
+            {
+              "id": 57,
+              "text": "Which is the largest desert in the world?",
+              "options": ["Sahara Desert", "Gobi Desert", "Antarctic Desert", "Kalahari Desert"],
+              "correct": 2
+            },
+            {
+              "id": 58,
+              "text": "What is the name of India's national flower?",
+              "options": ["Rose", "Sunflower", "Lotus", "Marigold"],
+              "correct": 2
+            },
+            {
+              "id": 59,
+              "text": "Which organ in the human body is responsible for detoxification?",
+              "options": ["Liver", "Kidneys", "Lungs", "Stomach"],
+              "correct": 0
+            },
+            {
+              "id": 60,
+              "text": "Which city is known as the 'Big Apple'?",
+              "options": ["Los Angeles", "Chicago", "New York City", "San Francisco"],
+              "correct": 2
+            },
+            {
+              "id": 61,
+              "text": "Which is the longest wall in the world?",
+              "options": ["Berlin Wall", "Great Wall of China", "Western Wall", "Hadrian's Wall"],
+              "correct": 1
+            },
+            {
+              "id": 62,
+              "text": "What is the national currency of the USA?",
+              "options": ["Euro", "Pound", "Dollar", "Yen"],
+              "correct": 2
+            },
+            {
+              "id": 63,
+              "text": "Which river is known as the 'Ganga of the South'?",
+              "options": ["Godavari", "Kaveri", "Krishna", "Narmada"],
+              "correct": 1
+            },
+            {
+              "id": 64,
+              "text": "What is the full form of 'WWW' in a web address?",
+              "options": ["World Wide Web", "World Wide Words", "Wide Web World", "Web Wide World"],
+              "correct": 0
+            },
+            {
+              "id": 65,
+              "text": "Who is known as the Missile Man of India?",
+              "options": ["Ratan Tata", "A.P.J. Abdul Kalam", "Vikram Sarabhai", "Homi Bhabha"],
+              "correct": 1
+            },
+            {
+              "id": 66,
+              "text": "Which planet has the most moons?",
+              "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+              "correct": 2
+            },
+            {
+              "id": 67,
+              "text": "What is the capital of Canada?",
+              "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+              "correct": 2
+            },
+            {
+              "id": 68,
+              "text": "Who discovered the theory of relativity?",
+              "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+              "correct": 1
+            },
+            {
+              "id": 69,
+              "text": "Which is the smallest bone in the human body?",
+              "options": ["Femur", "Stapes", "Tibia", "Humerus"],
+              "correct": 1
+            },
+            {
+              "id": 70,
+              "text": "Who was the first Indian woman to win an Olympic medal?",
+              "options": ["Mary Kom", "Saina Nehwal", "Karnam Malleswari", "P.T. Usha"],
+              "correct": 2
+            },
+            {
+              "id": 71,
+              "text": "What is the capital of Italy?",
+              "options": ["Venice", "Rome", "Florence", "Milan"],
+              "correct": 1
+            },
+            {
+              "id": 72,
+              "text": "Which metal is the best conductor of electricity?",
+              "options": ["Copper", "Silver", "Gold", "Aluminum"],
+              "correct": 1
+            },
+            {
+              "id": 73,
+              "text": "What is the study of plants called?",
+              "options": ["Zoology", "Botany", "Ecology", "Geology"],
+              "correct": 1
+            },
+            {
+              "id": 74,
+              "text": "Who was the first man in space?",
+              "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "Michael Collins"],
+              "correct": 1
+            },
+            {
+              "id": 75,
+              "text": "What is the square root of 64?",
+              "options": ["6", "8", "10", "12"],
+              "correct": 1
+            },
+            {
+              "id": 76,
+              "text": "What is the largest freshwater lake in the world?",
+              "options": ["Lake Victoria", "Lake Superior", "Lake Baikal", "Caspian Sea"],
+              "correct": 1
+            },
+            {
+              "id": 77,
+              "text": "Which sport is known as the 'King of Sports'?",
+              "options": ["Cricket", "Football", "Basketball", "Tennis"],
+              "correct": 1
+            },
+            {
+              "id": 78,
+              "text": "Who was the first Indian to win a Nobel Prize?",
+              "options": ["Rabindranath Tagore", "C.V. Raman", "Mother Teresa", "Amartya Sen"],
+              "correct": 0
+            },
+            {
+              "id": 79,
+              "text": "What is the chemical formula for table salt?",
+              "options": ["NaCl", "KCl", "MgCl", "CaCl"],
+              "correct": 0
+            },
+            {
+              "id": 80,
+              "text": "Which is the coldest place on Earth?",
+              "options": ["Antarctica", "Siberia", "Greenland", "Iceland"],
+              "correct": 0
+            },
+            {
+              "id": 81,
+              "text": "Who is known as the 'Father of the Nation' in India?",
+              "options": ["Subhas Chandra Bose", "Jawaharlal Nehru", "Mahatma Gandhi", "Bhagat Singh"],
+              "correct": 2
+            },
+            {
+              "id": 82,
+              "text": "What is the chemical symbol for oxygen?",
+              "options": ["O", "O2", "O3", "Ox"],
+              "correct": 1
+            },
+            {
+              "id": 83,
+              "text": "What is the speed of sound in air?",
+              "options": ["343 m/s", "123 m/s", "443 m/s", "543 m/s"],
+              "correct": 0
+            },
+            {
+              "id": 84,
+              "text": "Which is the most spoken language in the world?",
+              "options": ["Hindi", "English", "Mandarin", "Spanish"],
+              "correct": 2
+            },
+            {
+              "id": 85,
+              "text": "What is the national fruit of India?",
+              "options": ["Mango", "Banana", "Apple", "Pineapple"],
+              "correct": 0
+            },
+            {
+              "id": 86,
+              "text": "Who was the first President of India?",
+              "options": ["Rajendra Prasad", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Dr. S. Radhakrishnan"],
+              "correct": 0
+            },
+            {
+              "id": 87,
+              "text": "Which is the largest volcano in the world?",
+              "options": ["Mount St. Helens", "Mauna Loa", "Kilauea", "Mount Fuji"],
+              "correct": 1
+            },
+            {
+              "id": 88,
+              "text": "What is the main ingredient of bread?",
+              "options": ["Rice", "Wheat", "Barley", "Maize"],
+              "correct": 1
+            },
+            {
+              "id": 89,
+              "text": "What is the national game of India?",
+              "options": ["Cricket", "Hockey", "Kabaddi", "Badminton"],
+              "correct": 1
+            },
+            {
+              "id": 90,
+              "text": "Which is the hottest planet in the solar system?",
+              "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+              "correct": 1
+            },
+            {
+              "id": 91,
+              "text": "Who was the first Indian to travel to space?",
+              "options": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Vikram Sarabhai"],
+              "correct": 1
+            },
+            {
+              "id": 92,
+              "text": "What is the full form of 'RAM'?",
+              "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Rapid Access Memory"],
+              "correct": 0
+            },
+            {
+              "id": 93,
+              "text": "Which is the fastest land animal?",
+              "options": ["Cheetah", "Lion", "Horse", "Leopard"],
+              "correct": 0
+            },
+            {
+              "id": 94,
+              "text": "What is the capital of Germany?",
+              "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+              "correct": 0
+            },
+            {
+              "id": 95,
+              "text": "Which is the largest democracy in the world?",
+              "options": ["USA", "China", "India", "Brazil"],
+              "correct": 2
+            },
+            {
+              "id": 96,
+              "text": "Who discovered electricity?",
+              "options": ["Benjamin Franklin", "Thomas Edison", "Michael Faraday", "Nikola Tesla"],
+              "correct": 0
+            },
+            {
+              "id": 97,
+              "text": "What is the national tree of India?",
+              "options": ["Neem", "Banyan", "Peepal", "Mango"],
+              "correct": 1
+            },
+            {
+              "id": 98,
+              "text": "What is the full form of DNA?",
+              "options": ["Deoxyribonucleic Acid", "Deoxyribonucleotide Acid", "Dioxyribonucleic Acid", "Deoxynucleic Acid"],
+              "correct": 0
+            },
+            {
+              "id": 99,
+              "text": "Who is known as the 'Wizard of Menlo Park'?",
+              "options": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "Albert Einstein"],
+              "correct": 1
+            }
+        
+        
+    ]
+    
+    
+  }
+  

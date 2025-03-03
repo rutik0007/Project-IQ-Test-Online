@@ -1,0 +1,305 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "What does IT stand for?",
+        "options": ["Information Technology", "International Technology", "Intelligent Technology", "Internet Technology"],
+        "correct": 0
+      },
+      {
+        "id": 1,
+        "text": "Which of the following is an example of hardware?",
+        "options": ["Software", "Operating System", "Keyboard", "Application"],
+        "correct": 2
+      },
+      {
+        "id": 2,
+        "text": "Which device is used to connect computers in a network?",
+        "options": ["Router", "Monitor", "Printer", "Speaker"],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "text": "Which of the following is a storage device?",
+        "options": ["RAM", "ROM", "Hard Disk", "CPU"],
+        "correct": 2
+      },
+      {
+        "id": 4,
+        "text": "Which programming language is used for web development?",
+        "options": ["C", "Java", "Python", "JavaScript"],
+        "correct": 3
+      },
+      {
+        "id": 5,
+        "text": "Which of the following is NOT an operating system?",
+        "options": ["Windows", "Linux", "Android", "Java"],
+        "correct": 3
+      },
+      {
+        "id": 6,
+        "text": "What is the function of a CPU?",
+        "options": ["Execute instructions", "Store data", "Display output", "Control input devices"],
+        "correct": 0
+      },
+      {
+        "id": 7,
+        "text": "Which of these is NOT a type of software?",
+        "options": ["System Software", "Application Software", "Utility Software", "Hardware Software"],
+        "correct": 3
+      },
+      {
+        "id": 8,
+        "text": "Which type of memory is used to store data permanently?",
+        "options": ["RAM", "ROM", "Cache", "Register"],
+        "correct": 1
+      },
+      {
+        "id": 9,
+        "text": "Which programming language is primarily used for Android development?",
+        "options": ["Java", "Swift", "Python", "Kotlin"],
+        "correct": 0
+      },
+      {
+        "id": 10,
+        "text": "What does URL stand for?",
+        "options": ["Uniform Resource Locator", "Universal Resource Locator", "Universal Reference Locator", "Uniform Reference Locator"],
+        "correct": 0
+      },
+      {
+        "id": 11,
+        "text": "What is the main purpose of a firewall?",
+        "options": ["Monitor network traffic", "Block unauthorized access", "Encrypt data", "Control device access"],
+        "correct": 1
+      },
+      {
+        "id": 12,
+        "text": "Which of the following is an example of a cloud storage service?",
+        "options": ["Google Drive", "Microsoft Word", "Windows Explorer", "Notepad"],
+        "correct": 0
+      },
+      {
+        "id": 13,
+        "text": "What is the full form of HTTP?",
+        "options": ["HyperText Transfer Protocol", "HyperTransfer Text Protocol", "HyperText Technology Protocol", "HyperText Transmission Protocol"],
+        "correct": 0
+      },
+      {
+        "id": 14,
+        "text": "What is the name of the device that is used to create a Wi-Fi network?",
+        "options": ["Router", "Hub", "Switch", "Modem"],
+        "correct": 0
+      },
+      {
+        "id": 15,
+        "text": "Which of the following is an example of an input device?",
+        "options": ["Mouse", "Monitor", "Printer", "Speaker"],
+        "correct": 0
+      },
+      {
+        "id": 16,
+        "text": "Which of the following is a programming language?",
+        "options": ["Windows", "Python", "Google", "Facebook"],
+        "correct": 1
+      },
+      {
+        "id": 17,
+        "text": "Which of the following is used to measure the speed of a processor?",
+        "options": ["Gigahertz (GHz)", "Megabytes (MB)", "Kilobytes (KB)", "Terabytes (TB)"],
+        "correct": 0
+      },
+      {
+        "id": 18,
+        "text": "What is the function of an operating system?",
+        "options": ["Manage hardware resources", "Store data", "Execute software applications", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 19,
+        "text": "What is the full form of USB?",
+        "options": ["Universal Serial Bus", "Unified Serial Bus", "Universal System Bus", "Unified System Bus"],
+        "correct": 0
+      },
+      {
+        "id": 20,
+        "text": "Which type of device is a printer?",
+        "options": ["Input Device", "Output Device", "Storage Device", "Processing Device"],
+        "correct": 1
+      },
+      {
+        "id": 21,
+        "text": "Which of the following is a popular web browser?",
+        "options": ["Google Chrome", "Microsoft Excel", "Notepad", "Windows Explorer"],
+        "correct": 0
+      },
+      {
+        "id": 22,
+        "text": "What does a modem do?",
+        "options": ["Converts digital signals to analog", "Converts analog signals to digital", "Manages data transmission", "Filters noise in communication"],
+        "correct": 1
+      },
+      {
+        "id": 23,
+        "text": "What is the purpose of an IP address?",
+        "options": ["Identify devices on a network", "Manage the bandwidth of a network", "Encrypt data", "Backup network data"],
+        "correct": 0
+      },
+      {
+        "id": 24,
+        "text": "What does LAN stand for?",
+        "options": ["Local Area Network", "Large Area Network", "Long Area Network", "Local Automated Network"],
+        "correct": 0
+      },
+      {
+        "id": 25,
+        "text": "Which of the following is an example of system software?",
+        "options": ["Microsoft Word", "Linux", "Photoshop", "Notepad"],
+        "correct": 1
+      },
+      {
+        "id": 26,
+        "text": "What is the full form of RAM?",
+        "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Real-time Access Memory"],
+        "correct": 0
+      },
+      {
+        "id": 27,
+        "text": "Which of the following is a search engine?",
+        "options": ["Google", "Facebook", "Twitter", "LinkedIn"],
+        "correct": 0
+      },
+      {
+        "id": 28,
+        "text": "Which of the following is a file extension for an image file?",
+        "options": [".docx", ".jpeg", ".exe", ".ppt"],
+        "correct": 1
+      },
+      {
+        "id": 29,
+        "text": "What is the function of the browser?",
+        "options": ["Browse the internet", "Store data", "Send emails", "Create websites"],
+        "correct": 0
+      },
+      {
+        "id": 30,
+        "text": "Which of these is a type of operating system?",
+        "options": ["Android", "Windows", "iOS", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 31,
+        "text": "What is an example of a spreadsheet software?",
+        "options": ["Microsoft Word", "Excel", "PowerPoint", "Paint"],
+        "correct": 1
+      },
+      {
+        "id": 32,
+        "text": "Which of the following is a popular file compression tool?",
+        "options": ["WinZip", "Google Drive", "Facebook", "Chrome"],
+        "correct": 0
+      },
+      {
+        "id": 33,
+        "text": "What is the purpose of antivirus software?",
+        "options": ["Protect computer from malware", "Manage files", "Create backups", "Delete unwanted programs"],
+        "correct": 0
+      },
+      {
+        "id": 34,
+        "text": "Which of these is a cloud computing service?",
+        "options": ["AWS", "Google Cloud", "Microsoft Azure", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 35,
+        "text": "What is the function of a router?",
+        "options": ["Route data between networks", "Store data", "Monitor network traffic", "Display data"],
+        "correct": 0
+      },
+      {
+        "id": 36,
+        "text": "Which of the following is used to access the internet?",
+        "options": ["Modem", "Router", "Wi-Fi", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 37,
+        "text": "What is the primary function of an operating system?",
+        "options": ["Manage computer hardware", "Compile programs", "Store files", "Control internet access"],
+        "correct": 0
+      },
+      {
+        "id": 38,
+        "text": "What does URL stand for?",
+        "options": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Reference Locator", "Unified Resource Locator"],
+        "correct": 0
+      },
+      {
+        "id": 39,
+        "text": "What does Wi-Fi stand for?",
+        "options": ["Wireless Fidelity", "Wireless Functionality", "Wide Frequency", "Wireless Flexibility"],
+        "correct": 0
+      },
+      {
+        "id": 40,
+        "text": "What is the function of DNS?",
+        "options": ["Resolve domain names to IP addresses", "Monitor network traffic", "Store websites", "Encrypt communication"],
+        "correct": 0
+      },
+      {
+        "id": 41,
+        "text": "Which of the following is a programming language?",
+        "options": ["HTML", "CSS", "JavaScript", "None of the above"],
+        "correct": 2
+      },
+      {
+        "id": 42,
+        "text": "Which technology is used for virtual reality?",
+        "options": ["AR", "VR", "MR", "XR"],
+        "correct": 1
+      },
+      {
+        "id": 43,
+        "text": "Which of the following is an example of cloud storage?",
+        "options": ["Dropbox", "Google Drive", "iCloud", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 44,
+        "text": "Which of the following is an output device?",
+        "options": ["Scanner", "Keyboard", "Monitor", "Mouse"],
+        "correct": 2
+      },
+      {
+        "id": 45,
+        "text": "Which of the following is a web server software?",
+        "options": ["Apache", "Linux", "WordPress", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 46,
+        "text": "Which of the following is a cloud computing provider?",
+        "options": ["Amazon Web Services", "Microsoft Azure", "Google Cloud", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 47,
+        "text": "Which of the following is an example of a search engine?",
+        "options": ["Bing", "Yahoo", "Google", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 48,
+        "text": "What does 'IP' stand for?",
+        "options": ["Internet Protocol", "Internal Protocol", "Internet Pathway", "Interface Protocol"],
+        "correct": 0
+      },
+      {
+        "id": 49,
+        "text": "Which of these is an example of a network topology?",
+        "options": ["Bus", "Ring", "Star", "All of the above"],
+        "correct": 3
+      }
+    ]
+  }
+  

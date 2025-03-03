@@ -1,0 +1,76 @@
+<!-- Updated leaderboard.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <link rel="icon" type="image/png" href="logo.png">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="feedback.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const leaderboardTable = document.getElementById('leaderboard');
+            const leaderboardData = JSON.parse(localStorage.getItem('leaderboardData')) || [];
+
+            // Sort leaderboard by score (descending)
+            leaderboardData.sort((a, b) => b.score - a.score);
+
+            // Populate leaderboard
+            leaderboardTable.innerHTML = leaderboardData.map(user => `
+                <tr>
+                    <td>${user.username}</td>
+                    <td>${user.score}</td>
+                </tr>
+            `).join('');
+
+            if (leaderboardData.length === 0) {
+                leaderboardTable.innerHTML = '<tr><td colspan="2">No scores available yet.</td></tr>';
+            }
+        });
+    </script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="takeTest.html">Take Test</a></li>
+                <li><a href="leaderboard.html">Leaderboard</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="leaderboard-section">
+            <h1>Leaderboard</h1>
+            <table class="styled-table">
+                <thead>
+                    <tr>
+                        <th>Username</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody id="leaderboard">
+                    <tr><td colspan="2">Loading...</td></tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <section class="feedback">
+        <h2>Feedback</h2>
+        <form id="feedback-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="feedback">Feedback:</label>
+            <textarea id="feedback" name="feedback" required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+    <script src="feedback.js"></script>
+    <footer>
+        <p>&copy; 2024 IQ Test Online. All rights reserved.</p>
+    </footer>
+</body>
+</html>

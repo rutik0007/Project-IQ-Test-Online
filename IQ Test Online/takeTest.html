@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="taketest.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Tests</title>
+    <link rel="icon" type="image/png" href="logo.png">
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const loggedInUser = sessionStorage.getItem('loggedInUser');
+            if (!loggedInUser) {
+                alert("You must log in to access the tests!");
+                window.location.href = "login.html";
+            }
+        });
+    </script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="takeTest.html">Take Test</a></li>
+                <li><a href="leaderboard.html">Leaderboard</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <a href="test1.html"><h5>General Knowledge Test 1</h5></a>
+        <a href="test2.html"><h5>General Knowledge Test 2</h5></a>
+        <a href="test3.html"><h5>Logical Reasoning</h5></a>
+        <a href="test4.html"><h5>Programming Basics</h5></a>
+        <a href="test5.html"><h5>Technical Questions</h5></a>
+        <a href="test6.html"><h5>Logical Programming </h5></a>
+        <a href="test7.html"><h5>Memory-Based IQ Questions </h5></a>
+        <a href="test8.html"><h5>Puzzles and Pattern Recognition </h5></a>
+        <a href="test9.html"><h5>Computer Science Fundamentals </h5></a>
+        <a href="test10.html"><h5>IT Fundamentals </h5></a>
+    </main>
+    <footer>
+        <p>&copy; 2024 IQ Test Online. All rights reserved.</p>
+    </footer>
+</body>
+</html>

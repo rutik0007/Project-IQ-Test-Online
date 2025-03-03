@@ -1,0 +1,305 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "Which number is the next in the series: 2, 4, 8, 16, __?",
+        "options": ["32", "24", "48", "64"],
+        "correct": 0
+      },
+      {
+        "id": 1,
+        "text": "If you rearrange the letters 'CIFAIPC', you would have the name of a(n):",
+        "options": ["City", "Animal", "Ocean", "Country"],
+        "correct": 2
+      },
+      {
+        "id": 2,
+        "text": "Which number is missing: 3, 6, 9, __, 15, 18?",
+        "options": ["12", "10", "13", "14"],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "text": "If all Fishes are Birds, and all Birds are Animals, then are Fishes Animals?",
+        "options": ["Yes", "No", "Not enough information", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 4,
+        "text": "Which word is the odd one out: Mouse, Keyboard, Monitor, Chair?",
+        "options": ["Chair", "Monitor", "Keyboard", "Mouse"],
+        "correct": 0
+      },
+      {
+        "id": 5,
+        "text": "Which is the next letter in the series: A, C, E, G, __?",
+        "options": ["H", "I", "J", "K"],
+        "correct": 0
+      },
+      {
+        "id": 6,
+        "text": "If all squares are rectangles and all rectangles are parallelograms, then are all squares parallelograms?",
+        "options": ["Yes", "No", "Not enough information", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 7,
+        "text": "What comes next in the series: 1, 4, 9, 16, 25, __?",
+        "options": ["36", "49", "30", "40"],
+        "correct": 0
+      },
+      {
+        "id": 8,
+        "text": "Which word does not belong in the following list: Dog, Cat, Rabbit, Carrot?",
+        "options": ["Carrot", "Dog", "Cat", "Rabbit"],
+        "correct": 0
+      },
+      {
+        "id": 9,
+        "text": "What comes next: A, C, F, J, O, __?",
+        "options": ["S", "T", "P", "Q"],
+        "correct": 0
+      },
+      {
+        "id": 10,
+        "text": "What number should come next in this sequence: 1, 3, 6, 10, 15, __?",
+        "options": ["21", "16", "18", "20"],
+        "correct": 0
+      },
+      {
+        "id": 11,
+        "text": "If you rearrange the letters 'LOPES', you would have the name of a(n):",
+        "options": ["City", "Animal", "Tree", "Fruit"],
+        "correct": 2
+      },
+      {
+        "id": 12,
+        "text": "Which number comes next in the sequence: 2, 5, 10, 17, 26, __?",
+        "options": ["37", "38", "40", "35"],
+        "correct": 0
+      },
+      {
+        "id": 13,
+        "text": "If you rearrange the letters 'NATORA', you would have the name of a(n):",
+        "options": ["Animal", "Country", "Fruit", "City"],
+        "correct": 1
+      },
+      {
+        "id": 14,
+        "text": "What comes next in this sequence: 1, 4, 9, 16, __?",
+        "options": ["25", "30", "35", "40"],
+        "correct": 0
+      },
+      {
+        "id": 15,
+        "text": "Which number is missing: 1, 2, 4, 7, 11, __?",
+        "options": ["15", "16", "17", "18"],
+        "correct": 0
+      },
+      {
+        "id": 16,
+        "text": "What comes next in this series: 5, 10, 15, 20, __?",
+        "options": ["25", "30", "35", "40"],
+        "correct": 0
+      },
+      {
+        "id": 17,
+        "text": "Which word does not belong: Table, Chair, Lamp, Pen?",
+        "options": ["Pen", "Chair", "Table", "Lamp"],
+        "correct": 0
+      },
+      {
+        "id": 18,
+        "text": "What comes next: 1, 1, 2, 3, 5, 8, __?",
+        "options": ["10", "11", "13", "14"],
+        "correct": 2
+      },
+      {
+        "id": 19,
+        "text": "Which number should come next in this sequence: 3, 6, 12, 24, __?",
+        "options": ["48", "54", "60", "72"],
+        "correct": 0
+      },
+      {
+        "id": 20,
+        "text": "Which number is the next in the series: 1, 1, 2, 6, 24, __?",
+        "options": ["120", "130", "140", "100"],
+        "correct": 0
+      },
+      {
+        "id": 21,
+        "text": "Which number is missing: 3, 5, 7, 9, __?",
+        "options": ["11", "10", "8", "6"],
+        "correct": 0
+      },
+      {
+        "id": 22,
+        "text": "Which of these letters should replace the question mark: A, C, F, J, O, __?",
+        "options": ["P", "Q", "S", "T"],
+        "correct": 0
+      },
+      {
+        "id": 23,
+        "text": "What comes next in this sequence: 1, 2, 4, 8, __?",
+        "options": ["12", "16", "14", "20"],
+        "correct": 1
+      },
+      {
+        "id": 24,
+        "text": "Which word does not belong: Car, Bike, Train, Airplane, Bus?",
+        "options": ["Train", "Bus", "Car", "Bike"],
+        "correct": 0
+      },
+      {
+        "id": 25,
+        "text": "Which of the following words is the odd one out: Elephant, Giraffe, Tiger, Potato?",
+        "options": ["Potato", "Tiger", "Giraffe", "Elephant"],
+        "correct": 0
+      },
+      {
+        "id": 26,
+        "text": "What comes next in this sequence: 1, 4, 9, 16, __?",
+        "options": ["25", "20", "18", "15"],
+        "correct": 0
+      },
+      {
+        "id": 27,
+        "text": "Which number should come next in the sequence: 1, 1, 2, 3, 5, 8, __?",
+        "options": ["10", "12", "13", "14"],
+        "correct": 2
+      },
+      {
+        "id": 28,
+        "text": "Which number is missing: 2, 5, 8, 11, __?",
+        "options": ["14", "16", "13", "12"],
+        "correct": 0
+      },
+      {
+        "id": 29,
+        "text": "What comes next in this series: 2, 4, 8, 16, __?",
+        "options": ["32", "48", "40", "60"],
+        "correct": 0
+      },
+      {
+        "id": 30,
+        "text": "Which number is the next in the sequence: 1, 3, 6, 10, 15, __?",
+        "options": ["21", "16", "18", "20"],
+        "correct": 0
+      },
+      {
+        "id": 31,
+        "text": "If you rearrange the letters 'ROPE', you would have the name of a(n):",
+        "options": ["Animal", "Object", "Fruit", "City"],
+        "correct": 1
+      },
+      {
+        "id": 32,
+        "text": "Which number is missing: 4, 9, 16, 25, __?",
+        "options": ["36", "49", "32", "50"],
+        "correct": 0
+      },
+      {
+        "id": 33,
+        "text": "What comes next in the series: 1, 2, 4, 7, 11, __?",
+        "options": ["16", "17", "18", "19"],
+        "correct": 0
+      },
+      {
+        "id": 34,
+        "text": "Which word does not belong: Apple, Banana, Carrot, Mango?",
+        "options": ["Carrot", "Apple", "Banana", "Mango"],
+        "correct": 0
+      },
+      {
+        "id": 35,
+        "text": "What comes next in this sequence: 3, 6, 12, 24, __?",
+        "options": ["48", "54", "60", "72"],
+        "correct": 0
+      },
+      {
+        "id": 36,
+        "text": "Which number is the next in the sequence: 1, 4, 9, 16, __?",
+        "options": ["25", "28", "30", "35"],
+        "correct": 0
+      },
+      {
+        "id": 37,
+        "text": "What comes next in this sequence: 1, 1, 2, 6, 24, __?",
+        "options": ["120", "130", "140", "100"],
+        "correct": 0
+      },
+      {
+        "id": 38,
+        "text": "What number is missing in this sequence: 2, 4, 8, 16, __?",
+        "options": ["32", "48", "50", "40"],
+        "correct": 0
+      },
+      {
+        "id": 39,
+        "text": "What number should come next in this sequence: 3, 6, 10, 15, __?",
+        "options": ["21", "16", "18", "20"],
+        "correct": 0
+      },
+      {
+        "id": 40,
+        "text": "Which of these is the odd one out: Cat, Dog, Horse, Car?",
+        "options": ["Car", "Horse", "Dog", "Cat"],
+        "correct": 0
+      },
+      {
+        "id": 41,
+        "text": "What is the missing number: 3, 9, 27, __?",
+        "options": ["81", "63", "36", "72"],
+        "correct": 0
+      },
+      {
+        "id": 42,
+        "text": "What comes next in this series: 2, 3, 5, 7, 11, __?",
+        "options": ["13", "17", "19", "23"],
+        "correct": 0
+      },
+      {
+        "id": 43,
+        "text": "Which number is the next in the series: 5, 10, 20, 40, __?",
+        "options": ["80", "100", "120", "160"],
+        "correct": 0
+      },
+      {
+        "id": 44,
+        "text": "Which word does not belong: Finger, Thumb, Hand, Foot?",
+        "options": ["Foot", "Hand", "Thumb", "Finger"],
+        "correct": 0
+      },
+      {
+        "id": 45,
+        "text": "Which number is missing: 5, 10, 15, 20, __?",
+        "options": ["25", "30", "35", "40"],
+        "correct": 0
+      },
+      {
+        "id": 46,
+        "text": "What number comes next in the series: 3, 5, 7, 9, __?",
+        "options": ["11", "12", "13", "14"],
+        "correct": 0
+      },
+      {
+        "id": 47,
+        "text": "Which number should come next in the sequence: 2, 4, 8, 16, __?",
+        "options": ["32", "40", "50", "64"],
+        "correct": 0
+      },
+      {
+        "id": 48,
+        "text": "Which of these is the odd one out: Red, Blue, Green, Square?",
+        "options": ["Square", "Red", "Blue", "Green"],
+        "correct": 0
+      },
+      {
+        "id": 49,
+        "text": "Which number should come next in this sequence: 1, 1, 2, 3, 5, 8, __?",
+        "options": ["10", "11", "13", "14"],
+        "correct": 2
+      }
+    ]
+  }
+  

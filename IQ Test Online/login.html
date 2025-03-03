@@ -1,0 +1,58 @@
+<!-- Updated login.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - IQ Test Online</title>
+    <link rel="icon" type="image/png" href="logo.png">
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        function loginUser() {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            let users = JSON.parse(localStorage.getItem('users')) || [];
+            const user = users.find(user => user.username === username && user.password === password);
+
+            if (!user) {
+                alert('Invalid username or password!');
+                return;
+            }
+
+            sessionStorage.setItem('loggedInUser', username);
+            alert('Login successful!');
+            window.location.href = 'takeTest.html';
+        }
+    </script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="takeTest.html">Take Test</a></li>
+                <li><a href="leaderboard.html">Leaderboard</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Login</h1>
+        <form class="form-box" onsubmit="loginUser(); return false;">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" placeholder="Enter your username" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" placeholder="Enter your password" required>
+
+            <button class="btn" type="submit">Login</button>
+        </form>
+        <p >Don't have an account? <a href="register.html">Register here</a>.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 IQ Test Online. All rights reserved.</p>
+    </footer>
+</body>
+</html>

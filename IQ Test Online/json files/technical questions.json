@@ -1,0 +1,305 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "text": "What does HTTP stand for?",
+        "options": ["HyperText Transfer Protocol", "HyperTransfer Text Protocol", "HyperText Transmit Protocol", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 1,
+        "text": "Which of the following is a primary key in a database?",
+        "options": ["A unique identifier for records", "A foreign key", "A column used for indexing", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 2,
+        "text": "Which of these is an example of a relational database management system (RDBMS)?",
+        "options": ["MySQL", "MongoDB", "Redis", "Cassandra"],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "text": "What is the purpose of the 'git push' command?",
+        "options": ["To update the local repository", "To upload changes to a remote repository", "To clone a repository", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 4,
+        "text": "Which of these sorting algorithms has the best worst-case time complexity?",
+        "options": ["QuickSort", "MergeSort", "BubbleSort", "InsertionSort"],
+        "correct": 1
+      },
+      {
+        "id": 5,
+        "text": "What is the time complexity of binary search in a sorted array?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "correct": 1
+      },
+      {
+        "id": 6,
+        "text": "Which of these is a characteristic of an object-oriented programming language?",
+        "options": ["Encapsulation", "Inheritance", "Polymorphism", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 7,
+        "text": "What is a deadlock in computer science?",
+        "options": ["A situation where two or more processes cannot proceed because each is waiting for the other to release a resource", "A process running indefinitely", "A method to handle exceptions", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 8,
+        "text": "Which protocol is used to securely transfer files over a network?",
+        "options": ["FTP", "HTTP", "SSH", "SFTP"],
+        "correct": 3
+      },
+      {
+        "id": 9,
+        "text": "Which of the following is a NoSQL database?",
+        "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+        "correct": 2
+      },
+      {
+        "id": 10,
+        "text": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Centralized Style Sheets", "Computer Style Sheets", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 11,
+        "text": "What is a cloud computing model where the cloud provider offers only the infrastructure (such as servers) to the user?",
+        "options": ["Software as a Service (SaaS)", "Platform as a Service (PaaS)", "Infrastructure as a Service (IaaS)", "Function as a Service (FaaS)"],
+        "correct": 2
+      },
+      {
+        "id": 12,
+        "text": "Which of the following data structures is best suited for implementing a priority queue?",
+        "options": ["Array", "Linked List", "Heap", "Stack"],
+        "correct": 2
+      },
+      {
+        "id": 13,
+        "text": "What is the main advantage of using indexes in a database?",
+        "options": ["They reduce redundancy", "They increase data security", "They speed up data retrieval", "None of the above"],
+        "correct": 2
+      },
+      {
+        "id": 14,
+        "text": "What is the main function of an operating system?",
+        "options": ["To manage hardware resources", "To provide security", "To run user applications", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 15,
+        "text": "Which of these programming paradigms is associated with functional programming?",
+        "options": ["Using immutable data", "Using classes and objects", "Using loops and conditions", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 16,
+        "text": "What is the purpose of a foreign key in a relational database?",
+        "options": ["To link two tables together", "To define the primary key", "To store unique data", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 17,
+        "text": "Which of these is the best example of a graph traversal algorithm?",
+        "options": ["Binary Search", "Depth-First Search", "QuickSort", "MergeSort"],
+        "correct": 1
+      },
+      {
+        "id": 18,
+        "text": "Which version control system is commonly used for collaborative software development?",
+        "options": ["SVN", "Git", "Mercurial", "CVS"],
+        "correct": 1
+      },
+      {
+        "id": 19,
+        "text": "Which of the following is a key difference between HTTP and HTTPS?",
+        "options": ["HTTPS is slower due to encryption", "HTTP uses SSL/TLS encryption", "HTTPS does not support POST requests", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 20,
+        "text": "What is the time complexity of accessing an element in an array?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+        "correct": 0
+      },
+      {
+        "id": 21,
+        "text": "What is the purpose of the 'git clone' command?",
+        "options": ["To update the repository", "To download a repository from a remote server", "To push changes to a repository", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 22,
+        "text": "Which of the following is an example of an event-driven programming language?",
+        "options": ["JavaScript", "C", "C++", "Java"],
+        "correct": 0
+      },
+      {
+        "id": 23,
+        "text": "What is an API in software development?",
+        "options": ["Application Programming Interface", "Active Programming Interface", "Automated Process Integration", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 24,
+        "text": "Which of these programming languages is used for system programming?",
+        "options": ["Java", "Python", "C", "Ruby"],
+        "correct": 2
+      },
+      {
+        "id": 25,
+        "text": "Which of the following is an example of a server-side programming language?",
+        "options": ["JavaScript", "Python", "HTML", "CSS"],
+        "correct": 1
+      },
+      {
+        "id": 26,
+        "text": "Which data structure is used in Depth-First Search (DFS)?",
+        "options": ["Stack", "Queue", "Heap", "Linked List"],
+        "correct": 0
+      },
+      {
+        "id": 27,
+        "text": "What is the time complexity of QuickSort in the average case?",
+        "options": ["O(n^2)", "O(n log n)", "O(log n)", "O(n)"],
+        "correct": 1
+      },
+      {
+        "id": 28,
+        "text": "What is the purpose of a load balancer in a network?",
+        "options": ["To distribute incoming network traffic across multiple servers", "To monitor network traffic", "To provide network security", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 29,
+        "text": "What is the primary function of DNS (Domain Name System)?",
+        "options": ["To translate domain names into IP addresses", "To provide web hosting services", "To secure networks", "To route emails"],
+        "correct": 0
+      },
+      {
+        "id": 30,
+        "text": "What is a RESTful API?",
+        "options": ["An API that uses HTTP methods and follows REST principles", "A real-time communication protocol", "A type of database API", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 31,
+        "text": "Which of these is a file system used in Linux?",
+        "options": ["FAT32", "NTFS", "EXT4", "HFS"],
+        "correct": 2
+      },
+      {
+        "id": 32,
+        "text": "Which of the following is true about cloud storage?",
+        "options": ["It is only accessible via a local network", "It is highly scalable", "It requires physical hardware to access", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 33,
+        "text": "Which of the following is the best use case for a linked list?",
+        "options": ["Stack", "Queue", "Dynamic memory allocation", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 34,
+        "text": "Which of the following is an advantage of using HTTPS over HTTP?",
+        "options": ["More security due to encryption", "Better server performance", "Less latency", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 35,
+        "text": "What is the main purpose of a firewall in a network?",
+        "options": ["To monitor internet speed", "To prevent unauthorized access", "To optimize bandwidth", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 36,
+        "text": "Which of the following is the main function of an operating system?",
+        "options": ["To manage hardware resources", "To provide security", "To run user applications", "All of the above"],
+        "correct": 3
+      },
+      {
+        "id": 37,
+        "text": "Which of these commands is used to view running processes in Linux?",
+        "options": ["ls", "ps", "top", "chmod"],
+        "correct": 2
+      },
+      {
+        "id": 38,
+        "text": "Which algorithm is used to find the shortest path in a graph?",
+        "options": ["Breadth-First Search", "Dijkstra's Algorithm", "QuickSort", "MergeSort"],
+        "correct": 1
+      },
+      {
+        "id": 39,
+        "text": "What is the purpose of the 'git merge' command?",
+        "options": ["To combine multiple commits into one", "To merge code changes from one branch into another", "To create a new branch", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 40,
+        "text": "Which of the following is a widely used markup language for creating web pages?",
+        "options": ["HTML", "Python", "C#", "Swift"],
+        "correct": 0
+      },
+      {
+        "id": 41,
+        "text": "Which of these best describes a class in object-oriented programming?",
+        "options": ["A template for creating objects", "A variable storing data", "A function that returns values", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 42,
+        "text": "What is the key difference between synchronous and asynchronous operations?",
+        "options": ["Synchronous operations wait for one task to complete before starting another", "Asynchronous operations block other tasks until finished", "There is no difference", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 43,
+        "text": "Which of these languages is primarily used for developing iOS applications?",
+        "options": ["Java", "Swift", "Ruby", "C++"],
+        "correct": 1
+      },
+      {
+        "id": 44,
+        "text": "What is the purpose of a compiler in programming?",
+        "options": ["To translate high-level code into machine code", "To debug programs", "To optimize the code", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 45,
+        "text": "Which of the following is a primary difference between an interpreter and a compiler?",
+        "options": ["An interpreter executes code line by line", "A compiler executes all code at once", "Both execute code line by line", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 46,
+        "text": "Which of the following is an example of a file storage system?",
+        "options": ["MySQL", "PostgreSQL", "Amazon S3", "MongoDB"],
+        "correct": 2
+      },
+      {
+        "id": 47,
+        "text": "What does SQL stand for?",
+        "options": ["Structured Query Language", "System Query Language", "Structured Query Logic", "None of the above"],
+        "correct": 0
+      },
+      {
+        "id": 48,
+        "text": "What is the primary purpose of a version control system like Git?",
+        "options": ["To store code files", "To allow multiple people to work on the same project without conflict", "To compile code", "None of the above"],
+        "correct": 1
+      },
+      {
+        "id": 49,
+        "text": "Which of these is an example of a relational database?",
+        "options": ["MongoDB", "PostgreSQL", "Cassandra", "Neo4j"],
+        "correct": 1
+      }
+    ]
+  }
+  

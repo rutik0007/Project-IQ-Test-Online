@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test 10 IT Fundamentals </title>
+    <link rel="icon" type="image/png" href="logo.png">
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            fetch('json files/it fundamentals.json') // Path to your JSON file
+                .then(response => response.json())
+                .then(data => {
+                    const randomQuestions = getRandomQuestions(data.questions, 10);
+                    renderQuiz(randomQuestions);
+                })
+                .catch(error => console.error("Error loading questions:", error));
+        });
+
+        // Get random N questions from the dataset
+        function getRandomQuestions(questions, count) {
+            const shuffled = [...questions].sort(() => Math.random() - 0.5);
+            return shuffled.slice(0, count);
+        }
+
+        // Render the quiz dynamically
+        function renderQuiz(questions) {
+            const form = document.querySelector("form");
+            form.innerHTML = ""; // Clear the form content
+
+            questions.forEach((question, index) => {
+                const questionDiv = document.createElement("div");
+                questionDiv.dataset.question = index;
+
+                const questionText = document.createElement("p");
+                questionText.textContent = `${index + 1}. ${question.text}`;
+                questionDiv.appendChild(questionText);
+
+                question.options.forEach((option, optionIndex) => {
+                    const label = document.createElement("label");
+                    label.innerHTML = `
+                        <input type="radio" name="question_${index}" value="${optionIndex}">
+                        ${String.fromCharCode(65 + optionIndex)}. ${option}
+                    `;
+                    questionDiv.appendChild(label);
+                    questionDiv.appendChild(document.createElement("br"));
+                });
+
+                form.appendChild(questionDiv);
+            });
+
+            const submitButton = document.createElement("button");
+            submitButton.type = "button";
+            submitButton.textContent = "Submit";
+            submitButton.onclick = () => submitTest(questions);
+            submitButton.className = "styled-submit"; // Add class
+            form.appendChild(submitButton);
+        }
+
+        // Handle quiz submission
+        function submitTest(questions) {
+            let score = 0;
+
+            questions.forEach((question, index) => {
+                const selectedOption = document.querySelector(`input[name="question_${index}"]:checked`);
+
+                if (selectedOption) {
+                    if (parseInt(selectedOption.value) === question.correct) {
+                        score++;
+                        selectedOption.parentElement.classList.add("correct");
+                    } else {
+                        selectedOption.parentElement.classList.add("incorrect");
+                    }
+                }
+
+                const correctOption = document.querySelector(`input[name="question_${index}"][value="${question.correct}"]`);
+                if (correctOption) {
+                    correctOption.parentElement.classList.add("answer-key");
+                }
+            });
+
+             // Update leaderboard
+             const username = sessionStorage.getItem('loggedInUser') || 'Guest';
+            let leaderboard = JSON.parse(localStorage.getItem('leaderboardData')) || [];
+            leaderboard.push({ username, score });
+            localStorage.setItem('leaderboardData', JSON.stringify(leaderboard));
+            // Display the score summary
+            const summaryContainer = document.createElement("div");
+            summaryContainer.className = "summary-container";
+            summaryContainer.innerHTML = `
+                <h2>Quiz Summary</h2>
+                <p>Your Score: ${score}/${questions.length}</p>
+                <button onclick="location.reload()">Try Again</button>
+                <button onclick="window.location.href='leaderboard.html'">View Leaderboard</button>
+            `;
+            document.body.appendChild(summaryContainer);
+        }
+    </script>
+    <link rel="stylesheet" href="test.css">
+    <link rel="stylesheet" href="timer.css">
+    <script src="timer.js"></script>
+    
+</head>
+<body>
+    <header>
+        <h1>IT Fundamentals </h1>
+    </header>
+    <div id="timer">03:00</div>
+    <main>
+        <form onsubmit="return false;">
+            <button type="submit">Submit</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2024 IQ Test Online. All rights reserved.</p>
+    </footer>
+</body>
+</html>

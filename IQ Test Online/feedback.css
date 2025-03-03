@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #f0f9ff, #e1f5fe);
+    color: #333;
+}
+
+.feedback {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.feedback h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.feedback form {
+    display: flex;
+    flex-direction: column;
+}
+
+.feedback form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.feedback form input,
+.feedback form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.feedback form textarea {
+    resize: vertical;
+    height: 100px;
+}
+
+.feedback form button {
+    padding: 10px;
+    background: #0288d1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.feedback form button:hover {
+    background: #0277bd;
+}
